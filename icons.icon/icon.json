@@ -1,0 +1,48 @@
+{
+  "fill" : {
+    "automatic-gradient" : "display-p3:0.00000,0.00000,0.00000,1.00000"
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "image-name" : "bsod（头像）.png",
+          "name" : "bsod（头像）",
+          "position" : {
+            "scale" : 1.25,
+            "translation-in-points" : [
+              -366,
+              370.5390625
+            ]
+          }
+        },
+        {
+          "hidden" : false,
+          "image-name" : "uninspng.jpg",
+          "name" : "uninspng",
+          "position" : {
+            "scale" : 1.25,
+            "translation-in-points" : [
+              24.4921875,
+              -9.328125
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}

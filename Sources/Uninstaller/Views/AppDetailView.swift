@@ -1,5 +1,9 @@
 import SwiftUI
 
+struct icons {
+    static let icon = "app.square" // ← Change to your desired symbol name
+}
+
 struct AppDetailView: View {
     let app: MacApp
     let associatedFiles: [AssociatedFile]
@@ -36,7 +40,7 @@ struct AppDetailView: View {
                         .resizable()
                         .aspectRatio(contentMode: .fit)
                 } else {
-                    Image(systemName: "app.square")
+                    Image(systemName: icons.icon)  // Now resolves correctly
                         .resizable()
                         .aspectRatio(contentMode: .fit)
                         .foregroundStyle(.secondary)

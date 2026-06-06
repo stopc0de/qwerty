@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="icons.icon/Assets/AppIcon.png" width="120" alt="Uninstaller Icon" />
+  <img src="icons.icon/" width="120" alt="Uninstaller Icon" />
   <h1 align="center">Uninstaller</h1>
   <p align="center">A macOS app uninstaller built with SwiftUI — clean, safe, and effortless.</p>
 </div>

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="icons.icon/Assets/AppIcon.png" width="120" alt="应用卸载器图标" />
+  <img src="icons.icon" width="120" alt="应用卸载器图标" />
   <h1 align="center">应用卸载器</h1>
   <p align="center">基于 SwiftUI 的 macOS 应用卸载工具 — 干净、安全、省心。</p>
 </div>
